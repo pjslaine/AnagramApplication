@@ -15,7 +15,7 @@ Persistence & Performance:
 
 Maintainabilty & Supportability
 1. Test Suites have been added for the following classes (11 Tests Total): - JsonAccess.cs - AnagramCreator.cs - AnagramApplication.cs
-1. Logging to a Text File has been added with Serilog. Logs can be found in the "/Logs/logs.txt" file.
+1. Logging to a Text File has been added with Serilog. Logs can be found in the "Patrick-Slaines-Anagram-Challenge-Answer/src/Logging/log.txt" file.
 
 Additional Features Covered
 1. Unique values only added to file & cache storage.
