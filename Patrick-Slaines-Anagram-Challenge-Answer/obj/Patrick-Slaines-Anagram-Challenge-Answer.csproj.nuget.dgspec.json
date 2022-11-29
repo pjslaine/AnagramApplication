@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[2.4.2, )"
             },
+            "xunit.analyzers": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "xunit.assert": {
               "target": "Package",
               "version": "[2.4.2, )"
