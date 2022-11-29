@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Patrick-Slaines-Anagram-Challenge-Answer</id>
+    <version>1.0.0</version>
+    <authors>Patrick-Slaines-Anagram-Challenge-Answer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="2.12.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.File" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="xunit.assert" version="2.4.2" exclude="Build,Analyzers" />
+        <dependency id="xunit.extensibility.core" version="2.4.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Dell\Desktop\CME Application\Patrick-Slaines-Anagram-Challenge-Answer\Patrick-Slaines-Anagram-Challenge-Answer\bin\Debug\net6.0\Patrick-Slaines-Anagram-Challenge-Answer.runtimeconfig.json" target="lib\net6.0\Patrick-Slaines-Anagram-Challenge-Answer.runtimeconfig.json" />
+    <file src="C:\Users\Dell\Desktop\CME Application\Patrick-Slaines-Anagram-Challenge-Answer\Patrick-Slaines-Anagram-Challenge-Answer\bin\Debug\net6.0\Patrick-Slaines-Anagram-Challenge-Answer.dll" target="lib\net6.0\Patrick-Slaines-Anagram-Challenge-Answer.dll" />
+  </files>
+</package>

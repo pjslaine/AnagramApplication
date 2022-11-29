@@ -1,0 +1,32 @@
+2022-11-28 20:16:15.016 +00:00 [INF] Input Received - Username: patrick slaine - Value One: loaded - Value Two: dedoal
+2022-11-28 20:16:15.117 +00:00 [INF] Input Values - Username: patrick slaine - Value One: loaded - Value Two: dedoal - This input data was processed by isAnagram function
+2022-11-28 20:16:15.117 +00:00 [INF] Input Values - Username: patrick slaine - Value One: loaded - Value Two: dedoal - The input data is an Anagram.
+2022-11-28 20:16:15.118 +00:00 [INF] Input Values - Username: patrick slaine - Value One: loaded - Value Two: dedoal - This input data was added to cache storage
+2022-11-28 20:16:15.296 +00:00 [INF] Input Values - Username: patrick slaine - Value One: loaded - Value Two: dedoal - This input data was added to file storage
+2022-11-28 20:25:12.219 +00:00 [INF] Input Received - Username: patrick slaine - Value One: loaded - Value Two: dedoal
+2022-11-28 20:25:12.244 +00:00 [INF] Input Values - Username: patrick slaine - Value One: loaded - Value Two: dedoal - This input data was processed via Cache Storage
+2022-11-28 20:25:12.245 +00:00 [INF] Input Values - Username: patrick slaine - Value One: loaded - Value Two: dedoal - The input data is an Anagram.
+2022-11-29 13:21:00.733 +00:00 [INF] Input Received - Username: patrick - Value One: test - Value Two: dsasa
+2022-11-29 13:21:00.804 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: dsasa - This input data was processed by isAnagram function
+2022-11-29 13:21:00.804 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: dsasa - The input data is not an Anagram.
+2022-11-29 13:21:00.806 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: dsasa - This input data was added to cache storage
+2022-11-29 13:21:01.915 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: dsasa - This input data was added to file storage
+2022-11-29 17:54:43.310 +00:00 [INF] Input Received - Username: patrick - Value One: outcome - Value Two: eomcout
+2022-11-29 17:54:43.381 +00:00 [INF] Input Values - Username: patrick - Value One: outcome - Value Two: eomcout - This input data was processed by isAnagram function
+2022-11-29 17:54:43.381 +00:00 [INF] Input Values - Username: patrick - Value One: outcome - Value Two: eomcout - The input data is an Anagram.
+2022-11-29 17:54:43.416 +00:00 [INF] Input Values - Username: patrick - Value One: outcome - Value Two: eomcout - This input data was added to cache storage
+2022-11-29 17:54:43.958 +00:00 [INF] Input Values - Username: patrick - Value One: outcome - Value Two: eomcout - This input data was added to file storage
+2022-11-29 17:54:52.547 +00:00 [INF] Input Received - Username: slaine - Value One: code - Value Two: doce
+2022-11-29 17:54:52.547 +00:00 [INF] Input Values - Username: slaine - Value One: code - Value Two: doce - This input data was processed by isAnagram function
+2022-11-29 17:54:52.547 +00:00 [INF] Input Values - Username: slaine - Value One: code - Value Two: doce - The input data is an Anagram.
+2022-11-29 17:54:52.548 +00:00 [INF] Input Values - Username: slaine - Value One: code - Value Two: doce - This input data was added to cache storage
+2022-11-29 17:54:52.600 +00:00 [INF] Input Values - Username: slaine - Value One: code - Value Two: doce - This input data was added to file storage
+2022-11-29 17:55:13.841 +00:00 [INF] Input Received - Username: patrick - Value One: test - Value Two: tset
+2022-11-29 17:55:13.857 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: tset - This input data was processed by isAnagram function
+2022-11-29 17:55:13.857 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: tset - The input data is an Anagram.
+2022-11-29 17:55:13.858 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: tset - This input data was added to cache storage
+2022-11-29 17:55:14.137 +00:00 [INF] Input Values - Username: patrick - Value One: test - Value Two: tset - This input data was added to file storage
+2022-11-29 17:56:40.793 +00:00 [INF] Input Received - Username: patrick - Value One: test1! - Value Two: test1
+2022-11-29 17:56:40.840 +00:00 [ERR] Input Received - Username: patrick - Value One: test1! - Value Two: test1 - Error. One or both values contain characters other than letters.
+2022-11-29 17:56:51.880 +00:00 [INF] Input Received - Username: patrick - Value One: test t - Value Two: tests
+2022-11-29 17:56:51.880 +00:00 [ERR] Input Received - Username: patrick - Value One: test t - Value Two: tests - Error. One or both values contain characters other than letters.
